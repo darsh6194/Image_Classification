@@ -1,6 +1,4 @@
-Here's a GitHub README template for your Image Classification project using ResNet-9 and the CIFAR-10 dataset:
 
----
 
 # Image Classification using ResNet-9 on CIFAR-10
 
@@ -77,6 +75,3 @@ Contributions are welcome! If you find any issues or have suggestions, please fe
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-This README provides a clear overview of your project, instructions for setup, usage details, and general information about your model and dataset. Feel free to customize the sections further based on your specific implementation.
